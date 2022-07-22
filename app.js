@@ -206,3 +206,5 @@ Student.prototype.scopeArrow = () => console.log(this);
 //With arrow functions the this keyword represents the windows object that defined the arrow function. on other word 
 // represents the global object  and Arrow functions do not have their own this 
 //since arrow functions don't have its own binding and rep Global Scop
+
+let name= 'hassan';
